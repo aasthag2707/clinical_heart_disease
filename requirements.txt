@@ -11,6 +11,6 @@ matplotlib>=1.4.3
 pandas>=0.19
 pycaret==2.1.2
 streamlit
-
+nltk
 
 
