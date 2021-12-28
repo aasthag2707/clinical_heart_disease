@@ -1,5 +1,7 @@
-
+*.psd
+*.pdf
+test
+spec
+features
 doc
-/tmp/cache
-/node_modules
-/.cache/yarn
+public
